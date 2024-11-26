@@ -3,18 +3,32 @@
 
 I'm **Orlando Edward** (He/Him), a high school student (2023-2026) and an aspiring **Web App Developer** at IODININE (2024 - present). I’m passionate about transforming ideas into functional, well-designed web applications and exploring the endless possibilities of IT. With big dreams and a love for learning, IT has become my playground, and I’m excited to see where this journey takes me. 🚀  
 
-## 🔧 Skills
-- **Web Development:** HTML5, CSS, JavaScript, PHP  
-- **Database Management:** MySQL, PhpMyAdmin  
-- **Web Applications & Design:** Crafting responsive and user-friendly web experiences  
-- **Languages:**  
-  - Chinese: Professional working proficiency  
-  - English: Professional working proficiency  
-  - Indonesian: Native or bilingual proficiency  
+# 🔧 Skills & 💡 Current Roles
 
-## 💡 Current Roles
-- **Web App Developer** at IODININE  
-- **School Treasurer** at IODININE  
+<details>
+  <summary><strong>🔧 Skills</strong></summary>
+  <ul>
+    <li><strong>Web Development:</strong> HTML5, CSS, JavaScript, PHP</li>
+    <li><strong>Database Management:</strong> MySQL, PhpMyAdmin</li>
+    <li><strong>Web Applications & Design:</strong> Crafting responsive and user-friendly web experiences</li>
+    <li><strong>Languages:</strong>
+      <ul>
+        <li>Chinese: Professional working proficiency</li>
+        <li>English: Professional working proficiency</li>
+        <li>Indonesian: Native or bilingual proficiency</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>💡 Current Roles</strong></summary>
+  <ul>
+    <li><strong>Web App Developer</strong> at IODININE</li>
+    <li><strong>School Treasurer</strong> at IODININE</li>
+  </ul>
+</details>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oxcilin) 
