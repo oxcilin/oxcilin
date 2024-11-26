@@ -1,9 +1,7 @@
 # Hi there! 👋
 
-I'm **Orlando Edward** (He/Him), a high school student (2023-2026) and an aspiring **Web App Developer** currently honing my skills at IODININE (2024 - present). I'm passionate about turning ideas into functional, well-designed web applications and exploring the limitless possibilities of IT.
 
-## ✨ About Me
-I believe everyone has a unique story, and mine is still unfolding. As someone with big dreams and a love for learning, I've found my passion in IT. It’s my playground, and I can’t wait to see where this journey takes me. 🚀  
+I'm **Orlando Edward** (He/Him), a high school student (2023-2026) and an aspiring **Web App Developer** at IODININE (2024 - present). I’m passionate about transforming ideas into functional, well-designed web applications and exploring the endless possibilities of IT. With big dreams and a love for learning, IT has become my playground, and I’m excited to see where this journey takes me. 🚀  
 
 ## 🔧 Skills
 - **Web Development:** HTML5, CSS, JavaScript, PHP  
